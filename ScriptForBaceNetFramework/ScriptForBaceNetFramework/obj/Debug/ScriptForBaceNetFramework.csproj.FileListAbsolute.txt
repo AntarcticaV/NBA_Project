@@ -1,0 +1,16 @@
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\ScriptForBaceNetFramework.exe.config
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\ScriptForBaceNetFramework.exe
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\ScriptForBaceNetFramework.pdb
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\Aspose.Cells.dll
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\EntityFramework.dll
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\Aspose.Cells.xml
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\EntityFramework.xml
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\ru\EntityFramework.resources.dll
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\obj\Debug\ScriptForBaceNetFramework.csproj.AssemblyReference.cache
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\obj\Debug\ScriptForBaceNetFramework.csproj.CoreCompileInputs.cache
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\obj\Debug\ScriptForBaceNetFramework.csproj.CopyComplete
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\obj\Debug\ScriptForBaceNetFramework.exe
+C:\Учеба 2\Инструментальные средства разработки программного обеспечения\Задание NBA\ScriptForBaceNetFramework\ScriptForBaceNetFramework\obj\Debug\ScriptForBaceNetFramework.pdb
